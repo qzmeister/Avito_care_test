@@ -14,6 +14,7 @@ def test_1():
 
         # Таймаут для прогрузки страницы и элементов
         context.set_default_timeout(30000)
+        page.wait_for_selector(".desktop-wrapper-OutiE")
 
         # Элемент на странице со счётчиками
         element = page.query_selector(".desktop-wrapper-OutiE")
