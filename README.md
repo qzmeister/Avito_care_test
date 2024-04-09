@@ -14,7 +14,7 @@
      ```
      git clone https://github.com/qzmeister/Avito_care_test.git
      ```
-   - Или скачать архив с файлами репозитория, перейдя по ссылке: [Скачать ZIP]([https://github.com/qzmeister/Avito_care_test/archive/refs/heads/main.zip](https://github.com/qzmeister/Avito_care_test/archive/refs/heads/master.zip))
+   - Или скачать архив с файлами репозитория, перейдя по ссылке: [Скачать ZIP](https://github.com/qzmeister/Avito_care_test/archive/refs/heads/master.zip)
 
 3. **Установить зависимости**
 
